@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0900"
+   LastUpgradeVersion = "0910"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A22725CD1A3E72D50061605B"
-               BuildableName = "JKCategories-Demo.app"
-               BlueprintName = "JKCategories-Demo"
+               BlueprintIdentifier = "5517C21B1FCD63C50066F542"
+               BuildableName = "Carthage.framework"
+               BlueprintName = "Carthage"
                ReferencedContainer = "container:JKCategories-Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -30,15 +30,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A22725CD1A3E72D50061605B"
-            BuildableName = "JKCategories-Demo.app"
-            BlueprintName = "JKCategories-Demo"
-            ReferencedContainer = "container:JKCategories-Demo.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -53,16 +44,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A22725CD1A3E72D50061605B"
-            BuildableName = "JKCategories-Demo.app"
-            BlueprintName = "JKCategories-Demo"
+            BlueprintIdentifier = "5517C21B1FCD63C50066F542"
+            BuildableName = "Carthage.framework"
+            BlueprintName = "Carthage"
             ReferencedContainer = "container:JKCategories-Demo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -72,16 +62,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A22725CD1A3E72D50061605B"
-            BuildableName = "JKCategories-Demo.app"
-            BlueprintName = "JKCategories-Demo"
+            BlueprintIdentifier = "5517C21B1FCD63C50066F542"
+            BuildableName = "Carthage.framework"
+            BlueprintName = "Carthage"
             ReferencedContainer = "container:JKCategories-Demo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
